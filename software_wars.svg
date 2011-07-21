@@ -29,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="918.0761"
-     inkscape:cy="586.45534"
+     inkscape:cx="704.06113"
+     inkscape:cy="529.31248"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1000"
-     inkscape:window-x="1919"
-     inkscape:window-y="26"
+     inkscape:window-width="1280"
+     inkscape:window-height="973"
+     inkscape:window-x="-2"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      height="1052.36px" />
   <defs
@@ -2713,6 +2713,53 @@
          transform="matrix(1.1,0,0,1.1,1.1,0)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart-33"
+       style="overflow:visible">
+      <path
+         id="path4129-38"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12026-8"
+       id="radialGradient12034-04"
+       cx="257.14285"
+       cy="825.21936"
+       fx="257.14285"
+       fy="825.21936"
+       r="125.14294"
+       gradientTransform="matrix(1,0,0,0.98639234,0,11.229302)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient12026-8">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop12028-8" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0.76642334;"
+         offset="1"
+         id="stop12030-8" />
+    </linearGradient>
+    <radialGradient
+       r="125.14294"
+       fy="825.21936"
+       fx="257.14285"
+       cy="825.21936"
+       cx="257.14285"
+       gradientTransform="matrix(1,0,0,0.98639234,0,11.229302)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3885"
+       xlink:href="#linearGradient12026-8"
+       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata7">
@@ -3098,25 +3145,25 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="105.46706"
-       y="222.93561"
+       x="62.609913"
+       y="200.07846"
        id="text4009"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4011"
-         x="105.46706"
-         y="222.93561">Buzz</tspan></text>
+         x="62.609913"
+         y="200.07846">Buzz</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="111.28799"
-       y="253.64117"
+       x="117.00227"
+       y="263.64117"
        id="text4013"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4015"
-         x="111.28799"
-         y="253.64117">+1</tspan></text>
+         x="117.00227"
+         y="263.64117">+1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -3175,14 +3222,14 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="7.1428561"
-       y="242.36217"
+       x="9.999999"
+       y="232.36217"
        id="text4074"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4076"
-         x="7.1428561"
-         y="242.36217">Latitude</tspan></text>
+         x="9.999999"
+         y="232.36217">Latitude</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -3290,15 +3337,14 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="27.142857"
-       y="186.6479"
+       x="44.285713"
+       y="150.93359"
        id="text7240"
-       sodipodi:linespacing="125%"
-       transform="translate(0,-2.2302535e-5)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7242"
-         x="27.142857"
-         y="186.6479"
+         x="44.285713"
+         y="150.93359"
          style="font-size:18px">GoogleTV</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart)"
@@ -3424,8 +3470,8 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
-       transform="matrix(0.30141614,0,0,0.20778076,-31.544919,227.01909)"
-       inkscape:transform-center-x="2.3166124"
+       transform="matrix(0.37178387,0,0,0.20778076,-40.917894,227.01909)"
+       inkscape:transform-center-x="2.8574407"
        inkscape:transform-center-y="0.906613" />
     <path
        sodipodi:type="star"
@@ -5564,13 +5610,13 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="1297.1429"
+       x="1291.4287"
        y="680.93359"
        id="text30981"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan30983"
-         x="1297.1429"
+         x="1291.4287"
          y="680.93359">Linux</tspan></text>
     <text
        xml:space="preserve"
@@ -5586,14 +5632,14 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="1292.8571"
-       y="733.79071"
+       x="1294.2856"
+       y="748.07642"
        id="text30989"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan30991"
-         x="1292.8571"
-         y="733.79071">MySQL</tspan></text>
+         x="1294.2856"
+         y="748.07642">MySQL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -5619,14 +5665,14 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="1368.5714"
-       y="705.21936"
+       x="1372.8572"
+       y="708.07648"
        id="text31001"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan31003"
-         x="1368.5714"
-         y="705.21936">Python</tspan></text>
+         x="1372.8572"
+         y="708.07648">Python</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -5781,5 +5827,50 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
          x="893.06866"
          id="tspan13779-2"
          sodipodi:role="line">FirebirdSQL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="73.882256"
+       y="254.50981"
+       id="text4009-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4011-9"
+         x="73.882256"
+         y="254.50981">Plus</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.48868299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart);marker-mid:none"
+       d="m 81.507958,495.46379 c 2.037637,-78.14563 6.45628,-177.06141 7.120341,-231.25743"
+       id="path5674-6"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient3885);fill-opacity:1;stroke:#ff0000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path12024-9"
+       sodipodi:sides="10"
+       sodipodi:cx="257.14285"
+       sodipodi:cy="825.21936"
+       sodipodi:r1="124.74464"
+       sodipodi:r2="62.372318"
+       sodipodi:arg1="0.51488478"
+       sodipodi:arg2="0.82904405"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
+       transform="matrix(0.26872215,0,0,0.16171635,15.185735,377.48188)"
+       inkscape:transform-center-x="2.0653324"
+       inkscape:transform-center-y="0.70562219" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="1289.674"
+       y="724.47064"
+       id="text30985-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan30987-7"
+         x="1289.674"
+         y="724.47064">Nginx</tspan></text>
   </g>
 </svg>
