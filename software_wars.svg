@@ -29,14 +29,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="704.06113"
+     inkscape:cx="706.91827"
      inkscape:cy="529.31248"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="973"
-     inkscape:window-x="-2"
+     inkscape:window-height="974"
+     inkscape:window-x="-3"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      height="1052.36px" />
@@ -904,17 +904,6 @@
          offset="1"
          id="stop12030-0-7-8-6" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient12026-34-9-8-2"
-       id="radialGradient6227-4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.98639234,0,11.229302)"
-       cx="257.14285"
-       cy="825.21936"
-       fx="257.14285"
-       fy="825.21936"
-       r="125.14294" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient12026-34-9-8-4"
@@ -2760,6 +2749,100 @@
        id="radialGradient3885"
        xlink:href="#linearGradient12026-8"
        inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12026-34-9-8-2-0"
+       id="radialGradient6227-4-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.98639234,0,11.229302)"
+       cx="257.14285"
+       cy="825.21936"
+       fx="257.14285"
+       fy="825.21936"
+       r="125.14294" />
+    <linearGradient
+       id="linearGradient12026-34-9-8-2-0">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop12028-2-7-6-9-2" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0.76642334;"
+         offset="1"
+         id="stop12030-0-7-8-6-9" />
+    </linearGradient>
+    <radialGradient
+       r="125.14294"
+       fy="825.21936"
+       fx="257.14285"
+       cy="825.21936"
+       cx="257.14285"
+       gradientTransform="matrix(1,0,0,0.98639234,0,11.229302)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5284"
+       xlink:href="#linearGradient12026-34-9-8-2-0"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow2Lstart-6V"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart-6V-8"
+       style="overflow:visible">
+      <path
+         id="path8993-3"
+         style="font-size:12px;fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart-3S"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart-3S-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5331-8"
+         style="font-size:12px;fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12026-34-3-3-6"
+       id="radialGradient6465-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.98639234,0,11.229302)"
+       cx="257.14285"
+       cy="825.21936"
+       fx="257.14285"
+       fy="825.21936"
+       r="125.14294" />
+    <linearGradient
+       id="linearGradient12026-34-3-3-6">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop12028-2-2-7-6" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0.76642334;"
+         offset="1"
+         id="stop12030-0-1-0-2" />
+    </linearGradient>
+    <radialGradient
+       r="125.14294"
+       fy="825.21936"
+       fx="257.14285"
+       cy="825.21936"
+       cx="257.14285"
+       gradientTransform="matrix(1,0,0,0.98639234,0,11.229302)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5511"
+       xlink:href="#linearGradient12026-34-3-3-6"
+       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata7">
@@ -3361,14 +3444,14 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="521.42859"
-       y="300.93359"
+       x="507.14288"
+       y="313.79074"
        id="text8780"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8782"
-         x="521.42859"
-         y="300.93359"
+         x="507.14288"
+         y="313.79074"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">WindowsMobile 7</tspan></text>
     <text
        xml:space="preserve"
@@ -3384,16 +3467,17 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">iPad</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="628.57141"
-       y="268.07642"
+       style="font-size:55.87237167px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="658.52802"
+       y="242.13446"
        id="text8788"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.92336164,1.0829993)"><tspan
          sodipodi:role="line"
          id="tspan8790"
-         x="628.57141"
-         y="268.07642"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Nokia</tspan></text>
+         x="658.52802"
+         y="242.13446"
+         style="font-size:25.14256668px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans">Nokia ☠</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart)"
        d="m 512.85714,68.076468 c 9.60212,-0.917594 24.68477,-3.556965 28.57143,-4.285714"
@@ -3409,13 +3493,8 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
        sodipodi:nodetypes="csc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2LstartB)"
-       d="m 561.42858,225.2193 c 11.47035,18.06329 17.45645,37.96168 21.42857,52.85714"
+       d="m 540.00001,236.64787 c 11.47035,18.06329 17.45645,37.96168 21.42857,52.85714"
        id="path8796"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#ff0000;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 571.42858,239.50502 c 12.23097,19.92166 26.35917,21.81734 47.14286,25.71428"
-       id="path9138"
        inkscape:connector-curvature="0" />
     <path
        transform="translate(0,-2.2302535e-5)"
@@ -3904,79 +3983,79 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        sodipodi:linespacing="125%"
        id="text5860"
-       y="235.21931"
-       x="965.42859"
+       y="208.07646"
+       x="474.00003"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
-         y="235.21931"
-         x="965.42859"
+         y="208.07646"
+         x="474.00003"
          id="tspan5862"
          sodipodi:role="line">Mono</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5864"
-       y="196.64787"
-       x="868.28571"
+       y="146.64787"
+       x="879.71429"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
-         y="196.64787"
-         x="868.28571"
+         y="146.64787"
+         x="879.71429"
          id="tspan5866"
          sodipodi:role="line">Openxchange</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5868"
-       y="253.79074"
-       x="839.71429"
+       y="179.50504"
+       x="966.85712"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
-         y="253.79074"
-         x="839.71429"
+         y="179.50504"
+         x="966.85712"
          id="tspan5870"
          sodipodi:role="line">OpenSuse</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5872"
-       y="276.64786"
-       x="866.85718"
+       y="205.21928"
+       x="894.00006"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
-         y="276.64786"
-         x="866.85718"
+         y="205.21928"
+         x="894.00006"
          id="tspan5874"
          sodipodi:role="line">Suse</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5876"
-       y="269.505"
-       x="926.85718"
+       y="250.93358"
+       x="814.00006"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
-         y="269.505"
-         x="926.85718"
+         y="250.93358"
+         x="814.00006"
          id="tspan5878"
-         sodipodi:role="line">Netware</tspan></text>
+         sodipodi:role="line">Netware </tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5880"
-       y="298.07645"
-       x="898.28571"
+       y="125.21931"
+       x="948.28571"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        xml:space="preserve"><tspan
-         y="298.07645"
-         x="898.28571"
+         y="125.21931"
+         x="948.28571"
          id="tspan5882"
          sodipodi:role="line">Evolution</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path5884"
-       d="m 826.85714,229.50502 c 2.95276,-60.5627 41.32245,-62.85714 100,-62.85714 244.42916,0 -36.19285,318.08571 -100,62.85714 z"
-       style="fill:none;stroke:#0000ff;stroke-width:2.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.8, 2.4, 1.2, 2.4;stroke-dashoffset:0" />
+       d="m 878.28571,151.50846 c 2.95276,-48.72875 41.32245,-50.57486 100,-50.57486 244.42919,0 -36.19285,255.93177 -100,50.57486 z"
+       style="fill:none;stroke:#0000ff;stroke-width:2.15278816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.30557599, 2.152788, 1.076394, 2.152788;stroke-dashoffset:0" />
     <path
        inkscape:connector-curvature="0"
        id="path5884-6"
-       d="m 812.79448,227.04372 c 3.32899,-68.27924 46.58751,-70.86602 112.74142,-70.86602 275.5729,0 -40.80433,358.61433 -112.74142,70.86602 z"
-       style="fill:none;stroke:#ff0000;stroke-width:2.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.8, 2.4, 1.2, 2.4;stroke-dashoffset:0;marker-start:none" />
+       d="m 802.79246,232.38324 c 2.59662,-56.9087 36.33828,-59.0647 87.93834,-59.0647 214.9469,0 -31.82738,298.89428 -87.93834,59.0647 z"
+       style="fill:none;stroke:#ff0000;stroke-width:1.93510079;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.8702017, 1.93510085, 0.96755042, 1.93510085;stroke-dashoffset:0;marker-start:none" />
     <path
        sodipodi:type="star"
        style="fill:url(#radialGradient6159);fill-opacity:1;stroke:#ff0000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -4010,45 +4089,9 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
-       transform="matrix(0.14171577,-0.14712065,0.09554232,0.09203231,863.89883,273.77124)"
+       transform="matrix(0.14171577,-0.14712065,0.09554232,0.09203231,912.47026,103.77124)"
        inkscape:transform-center-x="21.452852"
        inkscape:transform-center-y="12.960873" />
-    <path
-       sodipodi:type="star"
-       style="fill:url(#radialGradient6227-4);fill-opacity:1;stroke:#ff0000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path12024-7-4-2-5"
-       sodipodi:sides="10"
-       sodipodi:cx="257.14285"
-       sodipodi:cy="825.21936"
-       sodipodi:r1="124.74464"
-       sodipodi:r2="62.372318"
-       sodipodi:arg1="0.51488478"
-       sodipodi:arg2="0.82904405"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
-       transform="matrix(0.06184707,-0.19468638,0.1264322,0.0401644,911.12277,253.2298)"
-       inkscape:transform-center-x="-0.076317276"
-       inkscape:transform-center-y="1.6715601" />
-    <path
-       sodipodi:type="star"
-       style="fill:url(#radialGradient6227-5);fill-opacity:1;stroke:#ff0000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path12024-7-4-2-7"
-       sodipodi:sides="10"
-       sodipodi:cx="257.14285"
-       sodipodi:cy="825.21936"
-       sodipodi:r1="124.74464"
-       sodipodi:r2="62.372318"
-       sodipodi:arg1="0.51488478"
-       sodipodi:arg2="0.82904405"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
-       transform="matrix(0.20427395,0,0,0.13265851,898.90098,57.175501)"
-       inkscape:transform-center-x="1.5699977"
-       inkscape:transform-center-y="0.57883156" />
     <path
        sodipodi:type="star"
        style="fill:url(#radialGradient6227-7);fill-opacity:1;stroke:#ff0000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -4064,7 +4107,7 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
-       transform="matrix(0.14504939,-0.14383505,0.0934086,0.09419721,733.62461,133.98119)"
+       transform="matrix(0.14504939,-0.14383505,0.0934086,0.09419721,839.3389,122.55262)"
        inkscape:transform-center-x="0.70724487"
        inkscape:transform-center-y="1.5164961" />
     <path
@@ -4082,7 +4125,7 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
-       transform="matrix(0.10279178,0.17652676,-0.11463907,0.0667545,902.44997,173.0953)"
+       transform="matrix(0.10279178,0.17652676,-0.11463907,0.0667545,998.16426,23.0953)"
        inkscape:transform-center-x="1.2902324"
        inkscape:transform-center-y="-1.0654688" />
     <text
@@ -4342,10 +4385,9 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
        style="fill:none;stroke:#0000ff;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-6V)" />
     <path
        sodipodi:nodetypes="cc"
-       transform="translate(0,-2.2302535e-5)"
        inkscape:connector-curvature="0"
        id="path8552"
-       d="m 1068.2363,207.36958 c -14.9793,42.24254 -27.0604,113.95074 -56.5685,156.57364"
+       d="m 1063.9506,205.94099 c -14.9793,42.24254 -27.0604,113.95074 -56.5685,156.57364"
        style="fill:none;stroke:#ff0000;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-63)" />
     <path
        transform="translate(0,-2.2302535e-5)"
@@ -4629,23 +4671,6 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
          id="tspan11280-37"
          x="1154.374"
          y="140.343">GPL</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path14930-3-4"
-       d="m 1095.9529,896.26899 c -37.0974,-6.28506 -68.5163,-8.92214 -33.8887,31.52021"
-       style="fill:none;stroke:#0000ff;stroke-width:1.70599997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-3Vj)"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="902.9455"
-       y="317.48584"
-       id="text11278-58"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11280-7"
-         x="902.9455"
-         y="317.48584">GPL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;font-family:Sans"
@@ -4682,11 +4707,10 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
        sodipodi:nodetypes="cc" />
     <path
        sodipodi:nodetypes="cc"
-       transform="translate(0,-2.2302535e-5)"
        inkscape:connector-curvature="0"
        id="path13048"
-       d="m 878.57143,362.36218 c 6.13081,-5.6954 26.47998,-25.53427 40,-38.57143"
-       style="fill:none;stroke:#0000ff;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-3k)" />
+       d="m 978.98969,236.34007 c 7.97244,-7.69684 34.43431,-34.50738 52.01561,-52.12598"
+       style="fill:none;stroke:#0000ff;stroke-width:3.44670582;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-3k)" />
     <path
        sodipodi:type="star"
        style="fill:url(#radialGradient13347);fill-opacity:1;stroke:#ff0000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -5226,25 +5250,26 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="90.913727"
-       y="927.10321"
+       x="76.628014"
+       y="998.5318"
        id="text23668"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan23670"
-         x="90.913727"
-         y="927.10321">IRIX</tspan></text>
+         x="76.628014"
+         y="998.5318">IRIX</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="162.63455"
-       y="936.19458"
+       style="font-size:25.66056442px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="82.184036"
+       y="1028.0623"
        id="text23672"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(1.0685757,0.93582512)"><tspan
          sodipodi:role="line"
          id="tspan23674"
-         x="162.63455"
-         y="936.19458">OpenGL</tspan></text>
+         x="82.184036"
+         y="1028.0623">OpenGL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -5269,15 +5294,15 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
          y="816.63605">Direct X</tspan></text>
     <path
        style="fill:none;stroke:#ff0000;stroke-width:2.14839983;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-6o)"
-       d="m 244.83059,879.4936 c 24.57454,-19.78921 50.02306,-42.23107 71.90929,-60.70812"
+       d="m 247.68773,878.06503 c 24.57454,-19.78921 50.02306,-42.23107 71.90929,-60.70812"
        id="path19321-3"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path13789-3-4"
-       d="m 227.86478,896.07561 c -6.71698,8.13372 -15.88606,15.60193 -22.82472,22.41649"
-       style="fill:none;stroke:#0000ff;stroke-width:1.625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-6L)" />
+       d="m 221.72415,903.32135 c -13.96153,13.03661 -33.01986,25.00655 -47.44216,35.92883"
+       style="fill:none;stroke:#0000ff;stroke-width:2.96599603;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-6L)" />
     <path
        sodipodi:type="star"
        style="fill:url(#radialGradient15822-6-1);fill-opacity:1;stroke:#ff0000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -5293,9 +5318,9 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
-       transform="matrix(0.16892776,-0.16590651,0.11797439,0.12012278,96.459918,828.26532)"
-       inkscape:transform-center-x="0.78357968"
-       inkscape:transform-center-y="1.7992498" />
+       transform="matrix(0.31023572,-0.10972093,0.21665989,0.07944223,-7.0278865,853.10226)"
+       inkscape:transform-center-x="1.4390448"
+       inkscape:transform-center-y="1.1899187" />
     <path
        transform="translate(0,-2.2302535e-5)"
        inkscape:connector-curvature="0"
@@ -5603,43 +5628,43 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
        id="path15898-7-4"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#0000ff;stroke-width:2.4000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.8, 2.4, 1.2, 2.4;stroke-dashoffset:0"
-       d="m 1484.1088,668.89272 c -436.078,-79.74928 -205.0172,89.29792 5.6702,199.80216"
+       style="fill:none;stroke:#0000ff;stroke-width:2.63308096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.26616174, 2.63308087, 1.31654044, 2.63308087;stroke-dashoffset:0"
+       d="m 1490.6163,661.73834 c -477.6033,-87.64547 -224.5399,98.13955 6.2102,219.58511"
        id="path30979"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="1291.4287"
-       y="680.93359"
+       x="1270.0001"
+       y="660.93359"
        id="text30981"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan30983"
-         x="1291.4287"
-         y="680.93359">Linux</tspan></text>
+         x="1270.0001"
+         y="660.93359">Linux</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="1290"
-       y="703.79077"
+       x="1268.5714"
+       y="683.79077"
        id="text30985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan30987"
-         x="1290"
-         y="703.79077">Apache</tspan></text>
+         x="1268.5714"
+         y="683.79077">Apache</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="1294.2856"
-       y="748.07642"
+       x="1272.8571"
+       y="728.07642"
        id="text30989"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan30991"
-         x="1294.2856"
-         y="748.07642">MySQL</tspan></text>
+         x="1272.8571"
+         y="728.07642">MySQL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -5815,7 +5840,7 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
          id="tspan31446"
          x="319.20819"
          y="-16.379473"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans">06/19/2011</tspan></text>
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Sans;-inkscape-font-specification:Sans">08/21/2011</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text13777-4"
@@ -5864,13 +5889,191 @@ Thomas Canniot http://mrtomlinux.org</dc:description>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="1289.674"
-       y="724.47064"
+       x="1268.2454"
+       y="704.47064"
        id="text30985-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan30987-7"
-         x="1289.674"
-         y="724.47064">Nginx</tspan></text>
+         x="1268.2454"
+         y="704.47064">Nginx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="317.09213"
+       y="133.35808"
+       id="text4005-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4007-7"
+         x="317.09213"
+         y="133.35808">Motorola</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:34.58937454px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="878.16327"
+       y="276.03131"
+       id="text4005-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96175791,1.0397627)"><tspan
+         sodipodi:role="line"
+         id="tspan4007-3"
+         x="878.16327"
+         y="276.03131">☠$$$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="1394.5272"
+       y="783.35809"
+       id="text30993-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan30995-8"
+         x="1394.5272"
+         y="783.35809">Lua</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="1292.5439"
+       y="750.02673"
+       id="text30989-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan30991-0"
+         x="1292.5439"
+         y="750.02673">Firebird</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5884-0"
+       d="m 434.55019,198.69421 c 1.9067,-24.15694 26.68341,-25.07213 64.57364,-25.07213 157.83685,0 -23.37104,126.87646 -64.57364,25.07213 z"
+       style="fill:none;stroke:#0000ff;stroke-width:1.21802819;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.43605636, 1.21802817, 0.60901409, 1.21802817;stroke-dashoffset:0" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient5284);fill-opacity:1;stroke:#ff0000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path12024-7-4-2-5"
+       sodipodi:sides="10"
+       sodipodi:cx="257.14285"
+       sodipodi:cy="825.21936"
+       sodipodi:r1="124.74464"
+       sodipodi:r2="62.372318"
+       sodipodi:arg1="0.51488478"
+       sodipodi:arg2="0.82904405"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
+       transform="matrix(0.05201867,-0.09950098,0.10634029,0.02052736,433.15541,210.29403)"
+       inkscape:transform-center-x="-0.064186279"
+       inkscape:transform-center-y="0.85430346" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8548-1-3"
+       d="m 1047.7582,874.16542 c 24.9925,11.15396 54.886,22.5764 82.3716,29.47293"
+       style="fill:none;stroke:#0000ff;stroke-width:3.10137296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-6V)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6547-7"
+       y="541.61346"
+       x="1316.0742"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan6551-3"
+         y="541.61346"
+         x="1316.0742"
+         sodipodi:role="line">Qt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="1193.5034"
+       y="781.45526"
+       id="text23672-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan23674-9"
+         x="1193.5034"
+         y="781.45526">WebGL</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text12844-5"
+       y="843.35809"
+       x="1303.5321"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="843.35809"
+         x="1303.5321"
+         id="tspan12846-7"
+         sodipodi:role="line">webkit</tspan><tspan
+         y="865.85809"
+         x="1303.5321"
+         sodipodi:role="line"
+         id="tspan5407" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="105.66602"
+       y="936.0658"
+       id="text23668-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan23670-3"
+         x="105.66602"
+         y="936.0658">Intel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="112.87961"
+       y="904.78662"
+       id="text23668-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan23670-3-4"
+         x="112.87961"
+         y="904.78662">AMD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="149.60939"
+       y="990.35156"
+       id="text23668-7-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan23670-3-4-6"
+         x="149.60939"
+         y="990.35156">NVIDIA</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path14930-0-2-5"
+       d="m 618.6896,296.92223 c -3.80601,-5.98785 -7.32445,-11.9883 -10.4611,-17.84038 -21.37964,-39.88832 -25.02102,-72.88298 18.91954,-48.00285"
+       style="fill:none;stroke:#ff0000;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-3S)"
+       sodipodi:nodetypes="csc" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient5511);fill-opacity:1;stroke:#ff0000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path12024-7-7-4-1"
+       sodipodi:sides="10"
+       sodipodi:cx="257.14285"
+       sodipodi:cy="825.21936"
+       sodipodi:r1="124.74464"
+       sodipodi:r2="62.372318"
+       sodipodi:arg1="0.51488478"
+       sodipodi:arg2="0.82904405"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 365.71428,886.64793 -66.43388,-15.44234 9.59177,67.52721 -44.66935,-51.54197 -31.93159,60.26857 -5.84266,-67.95433 -61.25818,29.98938 35.21574,-58.41043 -67.18622,-11.74473 62.82292,-26.55574 -47.45141,-48.99276 66.43389,15.44234 -9.59178,-67.52721 44.66936,51.54197 31.93159,-60.26857 5.84266,67.95433 61.25817,-29.98938 -35.21574,58.41043 67.18622,11.74473 -62.82292,26.55574 z"
+       transform="matrix(0.25595217,0,0,0.13246692,528.46944,113.76194)"
+       inkscape:transform-center-x="1.9671864"
+       inkscape:transform-center-y="0.57799738" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="210.64627"
+       y="967.16956"
+       id="text23672-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan23674-6"
+         x="210.64627"
+         y="967.16956">OpenAL</tspan></text>
   </g>
 </svg>
